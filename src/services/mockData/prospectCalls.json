@@ -1,0 +1,98 @@
+[
+  {
+    "Id": 1,
+    "title": "Discovery Call - TechCorp Solutions",
+    "prospectName": "Sarah Johnson",
+    "startTime": "2024-01-15T10:00:00",
+    "endTime": "2024-01-15T10:30:00",
+    "duration": 30,
+    "meetingLink": "https://meet.google.com/abc-defg-hij",
+    "description": "Initial discovery call to understand TechCorp's current challenges and explore potential solutions. Focus on their current tech stack and pain points.",
+    "attendees": ["sarah.johnson@techcorp.com", "sales@callsync.com"],
+    "calendarId": "primary"
+  },
+  {
+    "Id": 2,
+    "title": "Product Demo - StartupXYZ",
+    "prospectName": "Mike Chen",
+    "startTime": "2024-01-15T14:00:00",
+    "endTime": "2024-01-15T15:00:00",
+    "duration": 60,
+    "meetingLink": "https://zoom.us/j/123456789",
+    "description": "Product demonstration for StartupXYZ team. Show key features and how our solution addresses their specific needs.",
+    "attendees": ["mike.chen@startupxyz.com", "team@startupxyz.com", "demo@callsync.com"],
+    "calendarId": "sales"
+  },
+  {
+    "Id": 3,
+    "title": "Follow-up Call - Enterprise Corp",
+    "prospectName": "Jennifer Martinez",
+    "startTime": "2024-01-15T16:30:00",
+    "endTime": "2024-01-15T17:00:00",
+    "duration": 30,
+    "meetingLink": "https://teams.microsoft.com/l/meetup-join/19%3ameeting",
+    "description": "Follow-up discussion after the initial demo. Address questions about implementation timeline and pricing.",
+    "attendees": ["jennifer.martinez@enterprise.com", "followup@callsync.com"],
+    "calendarId": "work"
+  },
+  {
+    "Id": 4,
+    "title": "Sales Call - Growing Business Inc",
+    "prospectName": "David Wilson",
+    "startTime": "2024-01-16T09:00:00",
+    "endTime": "2024-01-16T09:45:00",
+    "duration": 45,
+    "meetingLink": "https://meet.google.com/xyz-uvw-rst",
+    "description": "Initial sales call with Growing Business Inc. Understand their current processes and how we can help streamline operations.",
+    "attendees": ["david.wilson@growingbiz.com", "sales@callsync.com"],
+    "calendarId": "primary"
+  },
+  {
+    "Id": 5,
+    "title": "Prospect Meeting - InnovateNow",
+    "prospectName": "Lisa Anderson",
+    "startTime": "2024-01-16T11:00:00",
+    "endTime": "2024-01-16T12:00:00",
+    "duration": 60,
+    "meetingLink": "https://meet.google.com/innovate-now-meeting",
+    "description": "Strategic discussion with InnovateNow leadership team about digital transformation initiatives.",
+    "attendees": ["lisa.anderson@innovatenow.com", "cto@innovatenow.com", "strategy@callsync.com"],
+    "calendarId": "sales"
+  },
+  {
+    "Id": 6,
+    "title": "Discovery Session - Future Tech Ltd",
+    "prospectName": "Robert Taylor",
+    "startTime": "2024-01-17T13:00:00",
+    "endTime": "2024-01-17T14:00:00",
+    "duration": 60,
+    "meetingLink": "https://zoom.us/j/987654321",
+    "description": "Deep dive discovery session to understand Future Tech's technical requirements and integration needs.",
+    "attendees": ["robert.taylor@futuretech.com", "tech@futuretech.com", "technical@callsync.com"],
+    "calendarId": "work"
+  },
+  {
+    "Id": 7,
+    "title": "Proposal Review - ScaleUp Co",
+    "prospectName": "Amanda Brown",
+    "startTime": "2024-01-18T15:00:00",
+    "endTime": "2024-01-18T16:00:00",
+    "duration": 60,
+    "meetingLink": "https://meet.google.com/proposal-review-scaleup",
+    "description": "Review of the proposal submitted to ScaleUp Co. Address any concerns and discuss next steps.",
+    "attendees": ["amanda.brown@scaleup.com", "finance@scaleup.com", "proposals@callsync.com"],
+    "calendarId": "primary"
+  },
+  {
+    "Id": 8,
+    "title": "Qualification Call - NextGen Solutions",
+    "prospectName": "Kevin Lee",
+    "startTime": "2024-01-19T10:30:00",
+    "endTime": "2024-01-19T11:15:00",
+    "duration": 45,
+    "meetingLink": "https://teams.microsoft.com/l/meetup-join/qualification",
+    "description": "Qualification call to determine if NextGen Solutions is a good fit for our services.",
+    "attendees": ["kevin.lee@nextgen.com", "qualify@callsync.com"],
+    "calendarId": "sales"
+  }
+]
